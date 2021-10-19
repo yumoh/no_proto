@@ -1,0 +1,16 @@
+[package]
+name = "py_no_proto"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "no_proto"
+crate-type = ["cdylib"]
+
+[dependencies]
+no_proto = "0.9.60"
+
+[dependencies.pyo3]
+version = "0.14.5"
+features = ["extension-module"]
