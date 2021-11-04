@@ -92,7 +92,8 @@ class Proto:
         ...
 
 ```
-
+## 参考
+[schema定义](https://docs.rs/no_proto/0.9.60/no_proto/schema/index.html)
 ## 引用
 
 - [no_proto - crates.io: Rust Package Registry](https://crates.io/crates/no_proto)

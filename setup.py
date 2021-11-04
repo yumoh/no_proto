@@ -10,7 +10,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='no_proto',
-    version='0.1.0',
+    version='0.2.0',
     author='yumohc',
     author_email='yumohc@163.com',
     description='no proto serialize tools',
