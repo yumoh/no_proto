@@ -1,8 +1,12 @@
 # no_proto tools
 
 ## 安装
-
-`pip install git+https://gitee.com/yumolab/no_proto.git`
+```bash
+git clone https://gitee.com/yumolab/no_proto.git
+cd no_proto
+bash build.sh
+pip install .
+```
 
 ## 说明
 

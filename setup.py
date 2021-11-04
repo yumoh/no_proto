@@ -2,11 +2,10 @@
 # -*- coding:utf-8 -*-
 
 import setuptools
-
+import os
 
 with open('README.md', 'r') as fh:
     long_description = fh.read()
-
 
 setuptools.setup(
     name='no_proto',
