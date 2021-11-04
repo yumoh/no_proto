@@ -2,7 +2,7 @@
 
 ## 安装
 
-`pip install git+https://github.com/yumoh/no_proto.git`
+`pip install git+https://gitee.com/yumolab/no_proto.git`
 
 ## 说明
 
